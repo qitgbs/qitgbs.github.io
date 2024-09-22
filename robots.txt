@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qitgbs.github.io/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/app/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/assets/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/css/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/data/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/includes/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/item/sitemap.html.gz
+Sitemap: https://qitgbs.github.io/src/sitemap.html.gz
